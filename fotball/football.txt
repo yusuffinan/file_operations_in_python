@@ -1,0 +1,4 @@
+alex,fenerbahçe,
+dzeko,fenerbahçe,
+muslera,galatasaray,
+salih,beşiktaş,
